@@ -5,7 +5,7 @@ header {
     position: fixed; /* Fixe le header en haut */
     top: 0;
     left: 50%; /* Centre horizontalement */
-    transform: translateX(-50%); /* Centre par rapport à la largeur de la page */
+    transform: translateX(-50%); /* Centre par rapport à la largeure de la page */
     width: 80%; /* Le header occupe 80% de la largeur */
     max-width: 1200px; /* Largeur maximale pour les grands écrans */
     border-radius: 0 0 15px 15px; /* Coins arrondis en bas */
